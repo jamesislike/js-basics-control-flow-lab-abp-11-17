@@ -16,6 +16,16 @@ function ternaryCheckCity(destination){
   } else { return `No go.`}
 }
 
+function switchOnCharmFromTip(tip){
+  switch (tip === '') {
+    case expression:
+      
+      break;
+    default:
+      
+  }
+} 
+
 // //function ternaryCheckCity(destination){
 //   if (destination
 // }
